@@ -3,7 +3,7 @@ package store
 import (
 	"github.com/jmoiron/sqlx"
 
-	"github.com/steven-ferrer/go-db-models/models"
+	"github.com/steven-ferrer/go-db-models/model"
 )
 
 //UserStore implements models.UserStorer
