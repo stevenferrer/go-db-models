@@ -1,4 +1,4 @@
-package store
+package user
 
 import (
 	"gopkg.in/mgo.v2"
