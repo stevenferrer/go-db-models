@@ -1,4 +1,4 @@
-module github.com/sf9v/go-db-models
+module github.com/stevenferrer/go-db-models
 
 go 1.14
 

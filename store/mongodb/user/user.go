@@ -3,7 +3,7 @@ package user
 import (
 	"gopkg.in/mgo.v2"
 
-	usermodel "github.com/sf9v/go-db-models/model/user"
+	usermodel "github.com/stevenferrer/go-db-models/model/user"
 )
 
 //Store implements usermodel.Storer
